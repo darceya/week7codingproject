@@ -21,3 +21,13 @@ body {
     list-style-type: none;
 }
 
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color:black;
+    padding: 10px;
+    text-align: center;
+    font-size: large;
+}
+

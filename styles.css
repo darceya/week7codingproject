@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+    color: blue;
+    text-align: center;
+}
+/*
+.pages {
+    text-align: left;
+}
+*/
+/*.page {
+    padding: 5px 15px;
+    color: silver;
+    border-style: solid;
+    border-width: 2px;
+    border-color: silver;
+}
+*/
+
+.no-bullet {
+    list-style-type: none;
+}
+
